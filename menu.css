@@ -1,0 +1,78 @@
+body{
+  background-image: url(img/20.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: Rockwell;
+}
+    #food_name{
+      height: 30px;
+      width: 200px;
+      padding: 5px;
+      margin-left: 10px;
+    }
+    #dessert_name{
+      height: 30px;
+      width: 200px;
+      padding: 5px;
+      margin-left: 10px;
+    }
+    #drinks_name{
+      height: 30px;
+      width: 200px;
+      padding: 5px;
+      margin-left: 10px;
+    }
+    img{
+      height: 50%;
+      width: 30%;
+      margin-left: 0px;
+    }
+    .img1{
+      height: 70%;
+      width: 83%;
+      margin-left: 195px;
+      margin-top: -34%;
+    }
+    .img2{
+      height: 100%;
+      width: 83%;
+      margin-left: 360px;
+      margin-top: -34%
+    }
+    .img3{
+      height: 200%;
+      width: 100%;
+    }
+    .img4{
+      height: 200%;
+      width: 90%;
+      margin-left: 185px;
+      margin-top: -34%;
+    }
+    .img5{
+      height: 200%;
+      width: 90%;
+      margin-left: 350px;
+      margin-top: -34%;
+    }
+    .img6{
+      height: 180%;
+      width: 90%;
+      margin-left: 0px;
+      margin-top: 0%;
+    }
+    .img7{
+      height: 200%;
+      width: 90%;
+      margin-left: 180px;
+      margin-top: -38%;
+    }
+    .img8{
+      height: 200%;
+      width: 100%;
+      margin-left: 350px;
+      margin-top: -34%;
+    }
+    .left{
+      margin-left: 45%;
+    }
